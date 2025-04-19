@@ -1,0 +1,4 @@
+I'm reverting the pushed commit into local 
+Then again I push the commit into new branch 
+And then merge with main branch
+         check this it will happen or not?
